@@ -1,0 +1,15 @@
+{
+    "require": {
+        "paypal/rest-api-sdk-php": "^1.12",
+        "phpmailer/phpmailer": "^6.0",
+        "twilio/sdk": "^5.19"
+    },
+
+    "autoload": {
+
+      "classemap": [
+
+        "classes"
+      ]
+    }
+}

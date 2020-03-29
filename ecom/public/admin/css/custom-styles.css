@@ -1,0 +1,29 @@
+/* thumbnail height of products */
+.caption {
+
+height: 180px;
+
+}
+
+
+
+
+/* form-control of contact.php page */
+#message{
+
+	height: 200px;
+	width: 500px;
+
+}
+
+#BrandName.navbar-brand.navbar-link{
+  font-family:French Script MT;
+  font-size:20px;
+}
+
+#logo{
+  max-height:40px;
+  margin-right:9px;
+  margin-top:-10px;
+  display:inline-block;
+}
